@@ -7,9 +7,15 @@ Dans cette partie suivante on a réer un serveur multi-Threads d'un jeu qui perm
 ![image](https://user-images.githubusercontent.com/84719124/159900162-fa767bba-1d67-4303-85fc-10ebaa02fdda.png)
 
 
-Puis on a créer l'interface graphique du client en utisant JavaFX :
+Puis on a créer l'interface graphique du client jeu en utisant JavaFX :
 ![image](https://user-images.githubusercontent.com/84719124/159901349-3d0ef05c-3b5f-41db-975f-b4a6894f805a.png)
 
 
 
-Dans cette partie suivante on a réer un serveur multi-Threads du Chat qui permet de faire une conversation entre les clients connectés : le serveur transforme le message envoyé par un client à un ou à tous clients.
+Dans cette partie suivante on a réer un serveur multi-Threads du Chat qui permet de faire une conversation entre les clients connectés : le serveur transforme le message envoyé par un client à un ou à tous clients.(vidéo part7)
+![image](https://user-images.githubusercontent.com/84719124/159902970-0199c394-f449-4a31-8796-3f05a51d07e4.png)
+
+
+Puis on a créer l'interface graphique du client Chat (videos part_ et  part9)
+![image](https://user-images.githubusercontent.com/84719124/159903313-2af8c5a6-1dcd-4383-baa8-432cfa76b8c7.png)
+
